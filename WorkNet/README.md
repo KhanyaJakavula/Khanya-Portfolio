@@ -51,7 +51,7 @@ I was responsible for:
 ##  Screenshots / Visuals
 Below are some visuals of the WorkNet design process:
 
-![Wireframe](images/wireframe1.png)
+![Wireframe](images/Screenshot 2025-08-29 135510.png)
 ![Concept Map](images/conceptmap.png)
 ![UI Design](images/ui1.png)
 
