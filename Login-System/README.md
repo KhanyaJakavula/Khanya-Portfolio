@@ -43,7 +43,7 @@ I was responsible for:
 ##  Screenshots
 Below are screenshots of the system:
 
-![Login Page](images/login.png)
+![Login Page](images/Screenshot-2026-04-20-135211.pnglogin.png)
 ![Register Page](images/register.png)
 ![Validation Example](images/validation.png)
 
